@@ -10,7 +10,7 @@ I'm passionate about creating websites and working on both frontend and backend 
 
 
 ## Connect with Me
-- LinkedIn: [LinkedIn](linkedin.com/in/abhishik-karmakar)
+- LinkedIn: (linkedin.com/in/abhishik-karmakar)
 - Twitter: [Twitter](https://twitter.com/abhishikkarma3)
 
 
