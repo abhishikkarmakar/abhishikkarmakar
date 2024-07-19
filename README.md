@@ -6,8 +6,6 @@
 # Hi there! 👋 I'm Abhishik k
 
 
-I'm passionate about creating websites and working on both frontend and backend technologies. 🚀
-
 
 ## Connect with Me
 - [LinkedIn](linkedin.com/in/abhishik-karmakar)
